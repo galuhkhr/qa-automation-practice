@@ -1,0 +1,1 @@
+login test timeout = 10 seconds
