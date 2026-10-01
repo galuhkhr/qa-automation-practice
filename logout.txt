@@ -1,0 +1,12 @@
+Project: QA Automation Practice
+
+Test Case ID: TC-002
+Title: Verify logout in estore and EPP
+Precondition: User has already login to the store
+Steps:
+1. Open the cart page
+2. Click Profile menu
+3. Click logout
+
+Expected Result:
+User successfully logout from estore and EPP
