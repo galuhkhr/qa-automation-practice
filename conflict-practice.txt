@@ -1,1 +1,1 @@
-login test timeout = 10 seconds
+login test timeout = 30 seconds
