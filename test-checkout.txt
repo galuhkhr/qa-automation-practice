@@ -1,0 +1,11 @@
+Test Case: Checkout with valid payment
+Pre-condition: Registered User
+
+Step:
+1. Login to the site
+2. Add any product
+3. Proceed until payment page
+4. Place order until shipping request
+
+Expected Result: 
+4. Order successfully created and move to shipping request
