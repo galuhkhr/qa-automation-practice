@@ -19,4 +19,7 @@ User successfully logs in and is redirected to the dashboard.
 Actual Result:
 User cannot login even though the email is already registered and the password is valid.
 
+Error Message:
+"Invalid email or password"
+
 Status: Open
