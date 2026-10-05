@@ -1,0 +1,25 @@
+Bug Title: User cannot login with registered email
+
+Severity: High
+Priority: High
+
+Pre-condition:
+1. User has a registered account
+2. User has a valid email and password
+
+Steps to Reproduce:
+1. Open login page
+2. Enter registered email
+3. Enter valid password
+4. Click Login
+
+Expected Result:
+User successfully logs in and is redirected to the dashboard.
+
+Actual Result:
+User cannot login even though the email is already registered and the password is valid.
+
+Error Message:
+"Invalid email or password"
+
+Status: Open
