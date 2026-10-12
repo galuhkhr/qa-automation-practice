@@ -1,4 +1,5 @@
-<<<<<<< HEAD
 login test result: PASS
 Expected result: User able to login successfully
 Env: Chrome and Firefox
+
+Reviewed by QA team
