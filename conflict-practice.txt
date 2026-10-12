@@ -1,1 +1,3 @@
-login test timeout = 30 seconds
+Login test result: FAIL
+Expected behavior: User can login successfully
+Environment: Firefox
