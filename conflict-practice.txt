@@ -1,4 +1,4 @@
-login test result: PASS - Local QA Verification
+login test result: FAIL - Team QA verification
 Expected result: User able to login successfully
 Env: Chrome and Firefox
 
